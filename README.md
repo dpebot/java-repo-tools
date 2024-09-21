@@ -1,3 +1,4 @@
+#sudo su 
 # Cloud Platform Java Repository Tools
 
 [![Build
